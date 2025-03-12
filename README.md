@@ -1,6 +1,6 @@
 ## Hi! I'm Farhan ✨
 
-   Computer science student at SZABIST <br/>
+  👨‍🎓 Computer science student at SZABIST <br/>
   👨‍💻 Learning c++ <br/>
   🎈 I create programs to stay consistent <br/>
 
