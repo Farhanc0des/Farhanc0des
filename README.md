@@ -1,8 +1,8 @@
 ## Hi! I'm Farhan ✨
 
   👨‍🎓 Computer science student at SZABIST <br/>
-  👨‍💻 Learning c++ <br/>
-  🎈 I create programs to stay consistent <br/>
+  👨‍💻 Exploring Cybersecurity <br/>
+  🎈 I always learn and understand things to stay consistent <br/>
 
   
 ## 🌐 Socials:
