@@ -1,8 +1,8 @@
 ## Hi! I'm Farhan ✨
 
-  👨‍🎓 Computer science student at SZABIST <br/>
+  👨‍🎓 Computer Science student at SZABIST - Islamabad <br/>
   👨‍💻 Exploring Cybersecurity <br/>
-  🎈 I always learn and understand things to stay consistent <br/>
+  🎈 Always try to learn and understand things to stay consistent <br/>
 
   
 ## 🌐 Socials:
